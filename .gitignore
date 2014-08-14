@@ -1,0 +1,10 @@
+
+\#*
+.*
+*.hi
+*.o
+*.config
+test
+Setup
+*.db
+Main
